@@ -9,7 +9,7 @@
 
 **Технологии:**
 - Backend (Java with Spring Boot)
-- Frontend (React + Bootstrap)
+- Frontend (React + Bootstrap + CSS + HTML)
 - Database (Firebase)
 
 **Автори:**
